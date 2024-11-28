@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AmirHashmi017
+# 👋 Hi, I’m Amir Hashmi
 
 ## About Me
 - 👀 I’m interested in Web Development, Software Engineering, and Open Source contributions.
