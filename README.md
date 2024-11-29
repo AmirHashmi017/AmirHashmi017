@@ -12,8 +12,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirHashmi017&show_icons=true&theme=radical&date=$(date +%s)" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHashmi017&layout=compact&theme=radical&date=$(date +%s)" alt="Top Languages" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AmirHashmi017&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHashmi017&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+
 
 </p>
 
