@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development, Software Engineering, and Open Source contributions.
 - 🌱 I’m currently learning **Web and Desktop App Development**, **ASP.NET Core**, and advanced **JavaScript** concepts.
 - 💞️ I’m looking to collaborate on innovative projects involving **Python**, **JavaScript**, or **Razor Pages**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [YouTube](https://www.youtube.com/@TechVlogs-zb2dq)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [Leetcode](https://leetcode.com/u/AmirHashmi191/)
 - 😄 Pronouns: He/Him
 
 ---
