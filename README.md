@@ -9,6 +9,16 @@
 - 😄 Pronouns: He/Him
 
 ---
+## 🧠 Skills & Tools
+
+- 💻 **Programming Languages**: Python, C#, C++, JavaScript, TypeScript, OOP, DSA
+- ⚙️ **Frameworks & Libraries**: MERN, React, Express, Flask, ASP.NET Core (Razor Pages), Windows Forms, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Bootstrap
+- 🗄️ **Databases**: MongoDB, MS SQL Server, PostgreSQL, MySQL
+- ☁️ **Cloud & Tools**: AWS, CI/CD Pipelines, Docker, Postman, MLflow, Dagshub, Git, Slack, Jira
+- 🧪 **Currently Learning**: AI/ML, Deep Learning, System Design, Advanced JavaScript Frameworks
+- 🤝 **Soft Skills**: Team Collaboration, Adaptability, Time Management, Communication Skills
+
+---
 
 ## 📊 GitHub Stats
 
