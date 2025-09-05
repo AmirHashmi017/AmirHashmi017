@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Amir Hashmi
 
 ## About Me
-- 👀 I’m interested in AI/ML, Web Development, Software Engineering, and Open Source contributions.
-- 🌱 I’m currently learning **AI/ML, Web and Desktop App Development**, **ASP.NET Core**, and advanced **JavaScript** concepts.
-- 💞️ I’m looking to collaborate on innovative projects involving **Python**, **JavaScript**, or **Razor Pages**.
+- 💻 I’m currently working as a Full-Stack Developer at Devanics, building robust backends and dynamic frontends.
+- 🌱 I’m also expanding my expertise by diving into AI/ML, Deep Learning, and strengthening my Web & Desktop Development skills with ASP.NET Core and advanced JavaScript Frameworks.
+- 👀 I’m passionate about AI/ML, Web Development, Software Engineering, and Open Source contributions.
+- 💞️ I’m looking to collaborate on innovative projects involving **AI/ML**, **Python**, **JavaScript**, or **Razor Pages**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [Leetcode](https://leetcode.com/u/AmirHashmi191/)
 - 😄 Pronouns: He/Him
 
@@ -24,20 +25,23 @@
 ## 🛠️ Tools I've Used
 
 <p align="left">
+ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman API" width="40" height="40"/>
+ <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman API" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
 </p>
 
 ---
