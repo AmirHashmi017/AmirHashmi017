@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 I’m currently working as a **Full-Stack Developer** at **Devanics**, building robust backends and dynamic frontends.
-- 🌱 I’m also expanding my expertise by diving into **AI/ML**, **Deep Learning**,**NLP** and strengthening my **Web & Desktop Development** skills with ASP.NET Core and advanced JavaScript Frameworks.
+- 🌱 I’m also expanding my expertise by diving into **AI/ML**, **Deep Learning**, **NLP** and strengthening my **Web & Desktop Development** skills with ASP.NET Core and advanced JavaScript Frameworks.
 - 👀 I’m passionate about AI/ML, Web Development, Software Engineering, and Open Source contributions.
 - 💞️ I’m looking to collaborate on innovative projects involving **AI/ML**, **Python**, **JavaScript**, or **Razor Pages**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [Leetcode](https://leetcode.com/u/AmirHashmi191/)
