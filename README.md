@@ -12,7 +12,7 @@
 ## 🧠 Skills & Tools
 
 - 💻 **Programming Languages**: Python, C#, JavaScript, TypeScript, C++, OOP, DSA
-- ⚙️ **Frameworks & Libraries**: MERN, React, Express, Flask, ASP.NET Core (Razor Pages), Windows Forms,TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Bootstrap
+- ⚙️ **Frameworks & Libraries**: MERN, TensorFlow, Scikit-learn, React, Express, Flask, ASP.NET Core (Razor Pages), Windows Forms, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Bootstrap
 - 🗄️ **Databases**: MongoDB, MS SQL Server, PostgreSQL, MySQL
 - ☁️ **Cloud & Tools**: AWS, CI/CD Pipelines, Docker, Postman, MLflow, Dagshub, Git, Slack, Jira
 - 🧪 **Currently Learning**: AI/ML, Deep Learning, System Design, Advanced JavaScript Frameworks
