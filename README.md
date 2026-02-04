@@ -1,21 +1,23 @@
 # 👋 Hi, I’m Amir Hashmi
 
 ## About Me
-- 💻 I’m currently working as a **Full-Stack Developer** at **Devanics**, building robust backends and dynamic frontends.
-- 🌱 I’m also expanding my expertise by diving into **AI/ML**, **Deep Learning**, **NLP** and strengthening my **Web & Desktop Development** skills with MERN, ASP.NET Core and advanced JavaScript Frameworks.
-- 👀 I’m passionate about AI/ML, Web Development, Software Engineering, and Open Source contributions.
-- 💞️ I’m looking to collaborate on innovative projects involving **AI/ML**, **Python**, **JavaScript**, or **Razor Pages**.
+- 💻 I’m a MERN & AI Developer with 2+ years of professional experience, currently working at **Devanics**, where I build scalable full-stack applications and AI-powered systems used in production..
+- 🌱 I specialize in **Generative AI** and **Agentic AI**, building autonomous, multi-agent systems using **LangChain**, **LangGraph**, **LangSmith**, and **MCP**. My work focuses on RAG pipelines, agentic workflows, persistent memory, observability, and intelligent orchestration, delivering production-grade AI architectures beyond simple LLM usage.
+- 👀 I also have a strong foundation in **Machine Learning**, **Deep Learning**, and **NLP**, and have mastered **automation with n8n**, building real-world, end-to-end workflows integrating LLMs, vector databases, OCR, voice AI, web scraping, and Google Workspace tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [Leetcode](https://leetcode.com/u/AmirHashmi191/)
-- 😄 Pronouns: He/Him
+
 
 ---
 ## 🧠 Skills & Tools
 
 - 💻 **Programming Languages**: Python, C#, JavaScript, TypeScript, C++, OOP, DSA
-- ⚙️ **Frameworks & Libraries**: MERN, TensorFlow, Scikit-learn, React, Express, Flask, ASP.NET Core (Razor Pages), Windows Forms, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Bootstrap
+- ⚙️ **Web & API Development**: MERN Stack, React, Flask, ASP.NET Core, REST APIs, FastAPI
+- 🧠 **Generative & Agentic AI**: LangChain, LangGraph, LangSmith, MCP, RAG pipelines
+- ⚡ **AI Automation**: n8n, Workflow Orchestration, LLM Integration, Vector Databases, Web Scraping
+- 📊 **Machine Learning**: Supervised & Unsupervised Learning, Regression & Classification, Clustering, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+- 🧬 **Deep Learning & NLP**: Deep Learning, RNN, LSTM, Transformers, TensorFlow, NLTK
 - 🗄️ **Databases**: MongoDB, MS SQL Server, PostgreSQL, MySQL
 - ☁️ **Cloud & Tools**: AWS, CI/CD Pipelines, Docker, Postman, MLflow, Dagshub, Git, Slack, Jira
-- 🧪 **Currently Learning**: AI/ML, Deep Learning, System Design, Advanced JavaScript Frameworks
 - 🤝 **Soft Skills**: Team Collaboration, Adaptability, Time Management, Communication Skills
 
 ---
@@ -38,6 +40,7 @@
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
