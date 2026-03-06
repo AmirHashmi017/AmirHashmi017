@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amir Hashmi
 
 ## About Me
-- 💻 I’m a MERN & AI Developer with 2+ years of professional experience, currently working at **Devanics**, where I build scalable full-stack applications and AI-powered systems used in production..
+- 💻 I’m a Full-Stack & AI Developer with 2+ years of professional experience, currently working at **Devanics**, where I build scalable full-stack applications and AI-powered systems used in production..
 - 🌱 I specialize in **Generative AI** and **Agentic AI**, building autonomous, multi-agent systems using **LangChain**, **LangGraph**, **LangSmith**, and **MCP**. My work focuses on RAG pipelines, agentic workflows, persistent memory, observability, and intelligent orchestration, delivering production-grade AI architectures beyond simple LLM usage.
 - 👀 I also have a strong foundation in **Machine Learning**, **Deep Learning**, and **NLP**, and have mastered **automation with n8n**, building real-world, end-to-end workflows integrating LLMs, vector databases, OCR, voice AI, web scraping, and Google Workspace tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirhashmi017) | [Upwork](https://www.upwork.com/freelancers/~01ab7405979236f819?mp_source=share) | [Fiverr](https://www.fiverr.com/amir_hashmi017?public_mode=true) | [Leetcode](https://leetcode.com/u/AmirHashmi191/)
