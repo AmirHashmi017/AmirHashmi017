@@ -18,7 +18,7 @@
 - 🧬 **Deep Learning & NLP**: Deep Learning, RNN, LSTM, Transformers, TensorFlow, NLTK
 - 🗄️ **Databases**: MongoDB, MS SQL Server, PostgreSQL, MySQL
 - ☁️ **Cloud & Tools**: AWS, CI/CD Pipelines, Docker, Postman, MLflow, Dagshub, Git, Slack, Jira
-- 🤝 **Soft Skills**: Team Collaboration, Adaptability, Time Management, Communication Skills
+- 🤝 **Soft Skills**: Team Collaboration, Communication, Adaptability, Time Management
 
 ---
 
