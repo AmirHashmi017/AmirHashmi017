@@ -59,10 +59,6 @@
     <img src="https://img.icons8.com/color/48/fiverr.png" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/AmirHashmi191/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-</a>
-
 <a href="https://www.youtube.com/@TechVlogs-zb2dq">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/>
 </a>
